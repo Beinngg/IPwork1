@@ -66,5 +66,5 @@
     "explorer.fileNesting.patterns": {
         "*.sln": "*.csproj"
     },
-    "dotnet.defaultSolution": "2.1ip-8.13.6pm.sln"
+    "dotnet.defaultSolution": "IPwork1.sln"
 }
